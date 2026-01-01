@@ -8,18 +8,6 @@ The model is trained and evaluated inside a Jupyter Notebook with support for CP
 
 ---
 
-## Project Structure
-.
-├── cifar10_cnn_pytorch.ipynb # Main notebook (training and evaluation)
-├── data/ # CIFAR-10 dataset (downloaded automatically)
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-yaml
-Copy code
-
----
-
 ## Key Features
 - CNN model implemented from scratch using PyTorch
 - Image preprocessing and normalization
